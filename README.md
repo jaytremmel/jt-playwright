@@ -9,6 +9,9 @@ This repository is currently migrating / upgrading to 1.1. The full code and res
 
 Please check back then, or contact me if you need anything in the meantime.
 
+716-246-1110
+jay@jaytremmel.com
+
 Go Bills!
 
 — Jay Tremmel
