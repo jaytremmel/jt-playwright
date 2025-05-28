@@ -5,9 +5,9 @@ End-to-end and API test automation using Playwright, built against a real-world 
 
 Thank you for your interest!
 
-This repository is currently migrating / upgrading to 1.1. The full code and resources will be available here later this week (Target: 5/23/25).
+I've switched my public facing project to https://github.com/jaytremmel/pw-practice-app
 
-Please check back then, or contact me if you need anything in the meantime.
+My goal is to have that repo replace this one (Est. 6/2)
 
 716-246-1110
 jay@jaytremmel.com
